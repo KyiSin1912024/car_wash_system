@@ -1,0 +1,13 @@
+<?php 
+require_once('../storage/auth_user.php');
+require_once('../storage/db.php');
+require_once('../storage/user_db.php');
+require_once('../storage/package_db.php');
+require_once('../storage/plan_db.php');
+require_once('../storage/package_plan_db.php');
+require_once('../storage/room_db.php');
+require_once('../storage/schedule_db.php');
+require_once('../storage/room_schedule_db.php');
+require_once('../storage/price_db.php');
+require_once('../storage/car_size_db.php');
+require_once('../storage/booking_db.php');
